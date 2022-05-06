@@ -1,0 +1,70 @@
+.body {
+  border-top-color: rgb(32, 8, 54);
+  margin-left: 5cm;
+  display: flex;
+  flex-direction: column;
+  margin: 1px;
+  border: 10px;
+}
+.form {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(178, 178, 185),
+    rgb(228, 228, 241)
+  );
+
+  border: 5px;
+  border-top-color: rgb(32, 8, 54);
+  box-shadow: -0px -10px 10px rgb(32, 8, 54);
+  border-bottom-color: rgb(228, 228, 241);
+  border-style: inset;
+
+  margin-right: 10cm;
+  margin-left: 10cm;
+  padding: 5px;
+}
+h1 {
+  box-shadow: 10px 0px 10px rgb(206, 206, 212);
+  text-align: center;
+  margin-bottom: 10px;
+}
+.input1 {
+  text-align: center;
+  margin-top: 7px;
+  margin-left: 40px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: 25px;
+  width: 190px;
+}
+
+#date {
+  margin-left: 15px;
+  margin-top: 7px;
+  font-weight: bold;
+  width: 140px;
+  height: 25px;
+  margin-bottom: 10px;
+}
+.qual {
+  text-align: center;
+  margin-top: 7px;
+  width: 190px;
+  height: 25px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+
+.des {
+  margin-bottom: 10px;
+  margin-left: 22px;
+  margin-right: 20px;
+  text-align: center;
+  height: 25px;
+  width: 300px;
+}
+
+button {
+  background-color: deeppink;
+  margin: auto;
+}

@@ -1,0 +1,63 @@
+.body {
+  border-top-color: rgb(32, 8, 54);
+  margin-left: 5cm;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 1px;
+  border: 10px;
+}
+
+.button {
+  background-color: deeppink;
+  margin-left: 10cm;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.form {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(178, 178, 185),
+    rgb(228, 228, 241)
+  );
+
+  border: 5px;
+  border-top-color: rgb(32, 8, 54);
+  box-shadow: -0px -10px 10px rgb(32, 8, 54);
+  border-bottom-color: rgb(228, 228, 241);
+  border-style: inset;
+
+  margin-right: 10cm;
+  margin-left: 10cm;
+  padding: 5px;
+}
+h1 {
+  box-shadow: 10px 0px 10px rgb(206, 206, 212);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.h3 {
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.ip {
+  height: 25px;
+  width: 150px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+.desc {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 14cm;
+  height: 25px;
+  margin-bottom: 10px;
+}

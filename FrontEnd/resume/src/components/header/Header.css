@@ -1,0 +1,26 @@
+.head {
+  border: 1px;
+  border-style: inset;
+  height: 1cm;
+  width: 610px;
+  margin-left: 10cm;
+  margin-right: 10cm;
+  margin-bottom: 20px;
+  background-color: blue;
+  box-shadow: -10px 0px 10px rgb(32, 8, 54);
+  padding-top: 10px;
+}
+
+.nav {
+  position: sticky;
+  top: 0px;
+}
+#h3 {
+  margin-top: -0px;
+  text-align: center;
+}
+#p {
+  margin-top: -40px;
+  text-align: end;
+  margin-right: 9px;
+}
